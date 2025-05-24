@@ -1,5 +1,5 @@
 ## Vignesh Saravanan
-Hi, I'm Vignesh, a second-year **electrical engineering** student at the University of Florida.
+Hi, I'm Vignesh, a second-year **electrical engineering** student at the University of Florida. Feel free to contact me at vsaravanan@ufl.edu or (813) 956-4079 if you have any questions.
 <!--
 **vsaravanan1/vsaravanan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
